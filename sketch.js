@@ -80,7 +80,6 @@ function draw() {
 }
 
 
-
 function scene0() {
   sceneNum = 0;
   background("black");
@@ -91,6 +90,7 @@ function scene0() {
   text("Press the space bar to jump", 200, 340);
   text("Collect 500 berries", 250, 235);
   text("work against the clock", 230, 175);
+  text("Blackberries give 2 points while raspberries give 1 point", 30, 160, 200, 200);
   fill(252, 252, 252);
   rect(230, 250, 200, 50);
   fill(0, 0, 0);
