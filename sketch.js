@@ -1,7 +1,7 @@
 var man;
 var bad = [];
 var bad2 = [];
-var sceneNum = 3;
+var sceneNum = 0;
 let timer = 15
 //finish up hit function https://www.youtube.com/watch?v=l0HoJHc-63Q&t=1027s
 function preload() {
